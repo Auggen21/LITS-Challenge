@@ -3,7 +3,7 @@
 
 
 1. Download the notebook and upload it in google colab.
-2. Download the LITS data using the Download the LITS data.ipynb file, The dataset size is around 50 GB, so you may require paid storage for google drive as it supports only 15GB
+2. Download the LITS data using the Download the LITS data.ipynb file, The dataset size is around 50 GB, so you may require paid storage for google drive as it supports only 15GB. Upload the torrent file when asked in colab.
 Or you can download the entire dataset from here
 https://drive.google.com/drive/folders/1-1rskjkiG46RkeoRpxzI4JHa1sBKxOQM?usp=sharing
 3. It has around 100+ files, but you cannot train these much in colab
