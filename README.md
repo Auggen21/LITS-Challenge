@@ -13,3 +13,4 @@ https://drive.google.com/drive/folders/1_pzWz60wAvsMx35kd_x8w5A5Xyyf6ulh?usp=sha
 You can download the remaining dataset from here
 https://drive.google.com/drive/folders/1-1rskjkiG46RkeoRpxzI4JHa1sBKxOQM?usp=sharing
 
+aap-lits.py will create a desktop application using kivy which can be used for the prediction of liver tumor segmentation
